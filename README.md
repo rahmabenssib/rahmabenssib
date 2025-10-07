@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi there! I'm **Rahma Benssib**, a student at **ESPRIT (École Supérieure Privée d'Ingénierie et de Technologies)** in Tunisia.
+🎓 Currently in my *1ère cycle d’ingénieur en informatique* (Computer Engineering Program).
 
-<!--
-**rahmabenssib/rahmabenssib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Skills & Technologies:**
 
-Here are some ideas to get you started:
+* Front-end: HTML, CSS, JavaScript
+* Back-end: Java, Symfony
+* Programming Languages: C, C++, Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **Professional Experience:**
+
+* 🎯 Observation internship at **Deloitte Morocco**
+* 🚀 Second-year internship at **Excellia**
+
+🌱 I'm passionate about software development, full-stack web technologies, and continuously learning new tools to build efficient and creative solutions.
+
+📫 **Contact me:**rahma.benssib@esprit.tn
+💡 *Always eager to learn, collaborate, and contribute to open-source projects!*
